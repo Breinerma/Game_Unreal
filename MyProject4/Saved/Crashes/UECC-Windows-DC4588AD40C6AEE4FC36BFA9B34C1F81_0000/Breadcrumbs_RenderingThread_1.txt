@@ -1,0 +1,6 @@
+Breadcrumbs 'RenderingThread'
+ - VirtualTextureUpdate
+ - Scene
+ - RenderGraphExecute - /ViewFamilies
+ - SceneRender - ViewFamilies
+ - Frame 4884
