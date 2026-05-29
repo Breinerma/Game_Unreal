@@ -1,5 +1,0 @@
-Breadcrumbs 'RDGExecute_RenderThread'
- - Scene
- - RenderGraphExecute - /ViewFamilies
- - SceneRender - ViewFamilies
- - Frame 4884
